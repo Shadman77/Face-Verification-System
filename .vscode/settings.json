@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/media/anonno/Media/Projects/Facial Recognition/Codes/linux-venv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
